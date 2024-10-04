@@ -1,0 +1,7 @@
+,Model Name,Accuracy,Best Parameters
+0,LR,0.7233204623240306,"{'copy_X': True, 'fit_intercept': True, 'positive': True}"
+1,RFR,0.843369282912284,"{'bootstrap': True, 'criterion': 'squared_error', 'max_depth': 5, 'min_samples_leaf': 6, 'min_samples_split': 5, 'n_estimators': 30}"
+2,DTR,0.8305846474277312,"{'max_depth': 6, 'max_features': 5, 'max_leaf_nodes': 8, 'min_samples_leaf': 5, 'min_samples_split': 6, 'splitter': 'best'}"
+3,Lasso,0.7233826159588526,"{'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'max_iter': 6, 'selection': 'random'}"
+4,Ridge,0.7234625459061995,"{'alpha': 1.5, 'copy_X': True, 'fit_intercept': True, 'max_iter': 2}"
+5,ElasticNet,0.5801710989941306,"{'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'max_iter': 6, 'selection': 'random'}"
