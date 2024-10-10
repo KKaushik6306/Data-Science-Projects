@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1-score,AUC
+Extra Trees,99.08%,97.56%,91.95%,94.67%,99.74%
+AdaBoost,98.98%,95.29%,93.1%,94.19%,99.76%
+Gradient Boosting,98.98%,95.29%,93.1%,94.19%,99.82%
+XGBoost,98.77%,95.18%,90.8%,92.94%,99.83%
